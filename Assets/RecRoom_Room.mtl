@@ -1,0 +1,768 @@
+# Blender 4.0.0 MTL File: 'VR_Demo_GameEve_Layout.blend'
+# www.blender.org
+
+newmtl Bookcase
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Bookcase_COLOR.jpg
+
+newmtl CanvasTarp
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/Paint/CanvasTarp_COL.png
+map_Bump -bm 1.000000 F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/Paint/CanvasTarp_NRM.png
+
+newmtl Chair
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/DiningTableChair_COL_1K.png
+map_Bump -bm 0.200000 C:/DiningTableChair_NRM_1K.png
+
+newmtl Checkerboard
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Checkerboard_COL.png
+map_Bump -bm 1.000000 C:/Checkerboard_NRM.png
+
+newmtl CheckersChip_Black
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/CheckersChip_COL_Red.png
+map_Bump -bm 1.000000 C:/CheckersChip_NRM.png
+
+newmtl CheckersChip_Red
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/CheckersChip_COL_Black.png
+map_Bump -bm 1.000000 C:/CheckersChip_NRM.png
+
+newmtl Dining_table
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/DiningTable_COL.jpg
+
+newmtl Door_Knob
+Ns 328.781281
+Ka 1.000000 1.000000 1.000000
+Ks 0.848624 0.848624 0.848624
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/MetalStainlessSteelBrushedElongated005_COL_3K_METALNESS.jpg
+
+newmtl EntertainmentCenter
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/EntertainmentCenter/EntertainmentCenter_COL.png
+map_d F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/EntertainmentCenter/EntertainmentCenter_COL.png
+map_Bump -bm 1.000000 F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/EntertainmentCenter/EntertainmentCenter_NRM.png
+
+newmtl EntertainmentCenter_Basket
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/EntertainmentCenter/EntertainmentCenter_Basket_COL.png
+map_d F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/EntertainmentCenter/EntertainmentCenter_Basket_COL.png
+map_Bump -bm 1.000000 F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/EntertainmentCenter/EntertainmentCenter_Basket_NRM.png
+
+newmtl EntertainmentCenter_BookRow
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/EntertainmentCenter/EntertainmentCenter_BookRow_COL.png
+map_d F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/EntertainmentCenter/EntertainmentCenter_BookRow_COL.png
+
+newmtl EntertainmentCenter_Books
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/EntertainmentCenter/EntertainmentCenter_Books_COL.png
+map_d F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/EntertainmentCenter/EntertainmentCenter_Books_COL.png
+map_Bump -bm 1.000000 F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/EntertainmentCenter/EntertainmentCenter_Books_NRM.png
+
+newmtl EntertainmentCenter_Vase
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/EntertainmentCenter/EntertainmentCenter_Vase_COL.png
+
+newmtl Entertainment_TV
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/EntertainmentCenter/EntertainmentCenter_TV_COL.png
+
+newmtl Entertainment_Vase.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/EntertainmentCenter/EntertainmentCenter_Vase.001_COL.png
+
+newmtl Glass
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+
+newmtl Glove_Box
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/GloveBox.png
+
+newmtl Gloves
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Pile of Gloves.jpg
+
+newmtl LampTexture
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/LampTexture2.png
+
+newmtl Material.011
+Ns 64.793388
+Ka 0.290909 0.290909 0.290909
+Kd 0.045561 0.044985 0.494991
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Material.014
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.611845 0.602959 0.443450
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl MedCart_BaseColor
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.543323 0.507005 0.430279
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl MedCart_Cup_Blue
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.082283 0.341914
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl MedCart_Cup_Red
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.162029 0.000000 0.000607
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl MedCart_DrawerBlue
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.205113 0.371222 0.514880
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl MedCart_Lock
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.119066 0.119066 0.119066
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl MedCart_Top
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.652713 0.685835 0.669142
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl MedCart_Tray
+Ns 834.731445
+Ka 0.263636 0.263636 0.263636
+Kd 0.127360 0.127360 0.127360
+Ks 0.086364 0.086364 0.086364
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl MedCart_Wheel
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.010715 0.010715 0.010715
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl MedCart_WheelAxle
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.574922 0.574922 0.574922
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl MedCart_WheelBracket
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.246201 0.246201 0.246201
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl MedCart_wheelconnect
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.447988 0.447988 0.447988
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl MetalStainlessSteelBrushedElongated005_3K.004
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/MetalStainlessSteelBrushedElongated005_COL_3K_METALNESS.jpg
+map_Ns C:/Users/Splik/Desktop/work/Preoperative_Area_Testing_optomised final 1k tiffs/textures/MetalStainlessSteelBrushedElongated005_ROUGHNESS_3K_METALNESS.jpg
+map_refl C:/Users/Splik/Desktop/work/Preoperative_Area_Testing_optomised final 1k tiffs/textures/MetalStainlessSteelBrushedElongated005_METALNESS_3K_METALNESS.jpg
+map_Bump -bm 1.000000 C:/Users/Splik/Desktop/work/Preoperative_Area_Testing_optomised final 1k tiffs/textures/MetalStainlessSteelBrushedElongated005_NRM16_3K_METALNESS.tif
+
+newmtl PaintBrush
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/Paint/PaintBrush_COL.png
+map_Bump -bm 1.000000 F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/Paint/PaintBrush_NRM.png
+
+newmtl PaintBucketClosed
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/Paint/PaintBucketClosed.png
+map_Bump -bm 1.000000 F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/Paint/PaintBucketClosed_NRM.png
+
+newmtl PaintBucketClosed_Handle
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/Paint/PaintBucketClosed_Handle_COL.png
+
+newmtl PaintBucketOpen
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/Paint/PaintBucketOpen_COL.png
+map_Bump -bm 1.000000 F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/Paint/PaintBucketOpen_NRM.png
+
+newmtl PaintBucketOpen_Handle
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/Paint/PaintBucketOpen_Handle_COL.png
+
+newmtl PaintBucketOpen_Lid
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/Paint/PaintBucketOpen_Lid_COL.png
+map_Bump -bm 1.000000 F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/Paint/PaintBucketOpen_Lid_NRM.png
+
+newmtl PaintBucketOpen_Side
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/Paint/PaintBucketOpen_Side_COL.png
+map_Bump -bm 1.000000 F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/Paint/PaintBucketOpen_Side_NRM.png
+
+newmtl PaintBucketOpen_Side_Handle
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/Paint/PaintBucketOpen_Side_Handle_COL.png
+
+newmtl PaintBucketOpen_Side_Lid
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/Paint/PaintBucketOpen_Side_Lid_COL.png
+map_Bump -bm 1.000000 F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/Paint/PaintBucketOpen_Side_Lid_NRM.png
+
+newmtl PaintRoller
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/Paint/PaintRoller_COL.png
+map_Bump -bm 1.000000 F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/Paint/PaintRoller_NRM.png
+
+newmtl PaintRollerTray
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/Paint/PaintRollerTray_COL.png
+map_Bump -bm 1.000000 F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/External_Assets/From Chelsea/Paint/PaintRollerTray_NRM.png
+
+newmtl Plastic
+Ns 662.004150
+Ka 1.000000 1.000000 1.000000
+Kd 0.105225 0.108773 0.182652
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Plastic_venetian_material.001
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl RecRoomFloor
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/Textures/RecRoomFloor/RecRoomFloor_Color_2k.png
+map_Bump -bm 1.000000 F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/Textures/RecRoomFloor/RecRoomFloor_Normal_2k.png
+
+newmtl RecRoom_Ceiling
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 24.8 24.8 24.8 F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/Textures/RecRoomCeiling_Color.jpg
+map_Bump -s 24.8 24.8 24.8 -bm 0.800000 F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/Textures/RecRoomCeilingNormal.jpg
+
+newmtl RecRoom_CeilingLightFrame
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.009505 0.003917 0.001429
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl RecRoom_CeilingLightGlass
+Ns 114.724274
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 2.100000 2.100000 2.100000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl RecRoom_ClockFace
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/Textures/RecRoom_Clock_256.jpg
+
+newmtl RecRoom_ClockFrame
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.024633 0.024633 0.024633
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl RecRoom_ClockHandsBlack
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.029100 0.029100 0.029100
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl RecRoom_ClockHandsConnector
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.377116 0.287266 0.035169
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl RecRoom_ClockHands_Red
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.007166 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl RecRoom_CouchChair
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/ChairSofaBeigeFabric.jpg
+
+newmtl RecRoom_Molding
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl RecRoom_Nail
+Ns 399.194214
+Ka 0.868182 0.868182 0.868182
+Kd 0.353066 0.353066 0.353066
+Ks 0.472727 0.472727 0.472727
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl RecRoom_NailBox
+Ns 354.566101
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/Textures/RecRoomNailsBox.jpg
+
+newmtl RecRoom_Outlet
+Ns 464.876038
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/Textures/RecRoomOutlet.png
+
+newmtl RecRoom_PaintingFrame1
+Ns 312.582672
+Ka 1.000000 1.000000 1.000000
+Ks 0.577273 0.577273 0.577273
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/Textures/RecRoom_PaintingFrame_Color.jpg
+map_Bump -bm 1.000000 F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/Textures/RecRoom_PaintingFrame_Normal.jpg
+
+newmtl RecRoom_PaintingFrame2
+Ns 312.582672
+Ka 1.000000 1.000000 1.000000
+Ks 0.577273 0.577273 0.577273
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/Textures/RecRoom_PaintingFrame2_Color.jpg
+map_Bump -bm 1.000000 F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/Textures/RecRoom_PaintingFrame_Normal.jpg
+
+newmtl RecRoom_PaintingFrame3
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/Textures/RecRoom_PaintingFrame3_Color.jpg
+map_Bump -bm 1.000000 F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/Textures/RecRoom_PaintingFrame_Normal.jpg
+
+newmtl RecRoom_WallFloor
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:/Hendall/VR Team Project/VR_Demo_GameEve_Layout/Textures/RecRoomWalls.png
+
+newmtl RecRoom_end_Coffee_Table
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/DiningTable_COL.jpg
+
+newmtl RowBooks01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/RowBooks01_COL.png
+map_Bump -bm 1.000000 C:/RowBooks01_NRM.png
+
+newmtl RowBooks02
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/RowBooks02_COL.png
+map_Bump -bm 1.000000 C:/RowBooks01_NRM.png
+
+newmtl RowBooks03
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/RowBooks03_COL.png
+map_Bump -bm 1.000000 C:/RowBooks03_NRM.png
+
+newmtl Stick_material
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.600000 0.600000 0.600000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl String_material
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.100000 0.100000 0.100000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl WoodFineDark004_3K.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/WoodFineDark004_COL_3K.jpg
+
+newmtl black_box.002
+Ns 35.555550
+Ka 0.608333 0.608333 0.608333
+Kd 1.000000 1.000000 1.000000
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl blinn1
+Ns 20.000006
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 0.370783 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl lambert4
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
